@@ -1,11 +1,11 @@
 # Ingeniería de Requisitos — Entrega 1
  
 ## Equipo
-- [Ignacio Geldes]
-- [Percival Leiva]
-- [Matías Abarca]
-- [Patricio Rivadeneira]
-- [Raúl Arteaga]
+- Ignacio Geldes
+- Percival Leiva
+- Matías Abarca
+- Patricio Rivadeneira
+- Raúl Arteaga
 
 ## Proyecto
 [Nombre del proyecto y una descripción breve, 3 a 5 líneas]
